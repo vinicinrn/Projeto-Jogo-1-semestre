@@ -1,0 +1,35 @@
+1. Qual endereço de IP entra em loopback?
+A)127.0.0.0
+B)127.0.0.1
+C)192.168.19.1
+D)172.18.0.1
+2. Quais desses não é um endereço de IP?
+A)192.168.1.1
+B)192.81.20.0
+C)192.168.0.256
+D)0.0.0.0
+3. Qual a função do DHCP
+A) Protocolo que permite atribuir endereços de IP ao um dispositivo de rede
+B) Protocolo de transmissão de vídeo
+C) Protocolo de envio de email
+D) Protocolo que traduz endereços privados de uma rede local em endereços públicos
+4. Qual o software de virtualização de máquinas?
+A)Dameware
+B)Anydesk
+C)Virtual box
+D)Hypervisor
+5. A linha (i= 0; i<10; i++) é um exemplo de:
+A)função
+B)switch
+C)while
+D)for
+6. Quais vantagens ao utilizar o ubuntu server?
+A)Estabilidade, segurança e desempenho
+B)Interface gráfica
+C)Facilidade ao mexer para qualquer usuário
+D)Ambiente simples, semelhante ao ubuntu desktop
+7. Em Arquitetura de Computadores, a impressora é um dispositivo de
+A) entrada e saída
+B) saída
+C) entrada
+D) híbridos
